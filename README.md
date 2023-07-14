@@ -3,7 +3,14 @@
 <div align="center">
   ⭐👋 Have a Nice Day 👋⭐
   <br/>
+  <br/>
+  🎇 teck slack 🎇
+  <br/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <br/>
+  <br/>
+  🔭 I’m currently working on SSAFY 🔭
+
 </div>
 
 
