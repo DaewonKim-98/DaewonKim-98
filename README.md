@@ -1,4 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=egg&text=Welcome!&color=gradient&height=200&fontAlignY=40)
+
+<div align="center">
+  👋 Hi there 👋
+  <br/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</div>
+
 
 <!--
 **DaewonKim-98/DaewonKim-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
