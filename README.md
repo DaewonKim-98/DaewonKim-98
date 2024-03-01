@@ -8,6 +8,8 @@
   <br/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-3776AB?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html-3776AB?style=flat-square&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-3776AB?style=flat-square&logo=css&logoColor=white"/>
   <br/>
   <br/>
   🔭 I’m currently working on SSAFY 🔭
