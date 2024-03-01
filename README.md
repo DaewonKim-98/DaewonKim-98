@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=egg&text=Welcome!&color=gradient&height=200&fontAlignY=40)
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=egg&text=Welcome!&color=gradient&height=200&fontAlignY=40) -->
 
 <div align="center">
   ⭐👋 Have a Nice Day 👋⭐
