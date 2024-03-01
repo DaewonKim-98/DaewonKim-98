@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/javascript-3776AB?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-3776AB?style=flat-square&logo=html&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-3776AB?style=flat-square&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue-3776AB?style=flat-square&logo=vue&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-3776AB?style=flat-square&logo=react&logoColor=white"/>
   <br/>
   <br/>
   🔭 I’m currently working on SSAFY 🔭
